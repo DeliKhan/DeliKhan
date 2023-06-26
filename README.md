@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Deluckshan Murugesu
+### <div id="header" align="center">👋 Hi there, my name is Deluckshan Murugesu</div>
 
 ----
 ### :sparkles:About me:
